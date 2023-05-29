@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dr.Drobitel\\Desktop\\YchebniyPractice2\\YchebniyPractice2.csproj",
+      "projectUniqueName": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\YchebnayaPractice2\\YchebniyPractice2\\YchebniyPractice2.csproj",
       "projectName": "YchebniyPractice2",
-      "projectPath": "C:\\Users\\Dr.Drobitel\\Desktop\\YchebniyPractice2\\YchebniyPractice2.csproj",
+      "projectPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\YchebnayaPractice2\\YchebniyPractice2\\YchebniyPractice2.csproj",
       "packagesPath": "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dr.Drobitel\\Desktop\\YchebniyPractice2\\obj\\",
+      "outputPath": "C:\\Users\\Dr.Drobitel\\Source\\Repos\\YchebnayaPractice2\\YchebniyPractice2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dr.Drobitel\\AppData\\Roaming\\NuGet\\NuGet.Config",
