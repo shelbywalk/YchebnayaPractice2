@@ -1,0 +1,15 @@
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\bin\Debug\net5.0\YchebniyPractice2(Cycle).exe
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\bin\Debug\net5.0\YchebniyPractice2(Cycle).deps.json
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\bin\Debug\net5.0\YchebniyPractice2(Cycle).runtimeconfig.json
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\bin\Debug\net5.0\YchebniyPractice2(Cycle).runtimeconfig.dev.json
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\bin\Debug\net5.0\YchebniyPractice2(Cycle).dll
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\bin\Debug\net5.0\ref\YchebniyPractice2(Cycle).dll
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\bin\Debug\net5.0\YchebniyPractice2(Cycle).pdb
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\obj\Debug\net5.0\YchebniyPractice2(Cycle).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\obj\Debug\net5.0\YchebniyPractice2(Cycle).AssemblyInfoInputs.cache
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\obj\Debug\net5.0\YchebniyPractice2(Cycle).AssemblyInfo.cs
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\obj\Debug\net5.0\YchebniyPractice2(Cycle).csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\obj\Debug\net5.0\YchebniyPractice2(Cycle).dll
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\obj\Debug\net5.0\ref\YchebniyPractice2(Cycle).dll
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\obj\Debug\net5.0\YchebniyPractice2(Cycle).pdb
+C:\Users\Студент\source\repos\YchebniyPractice2(Cycle)\obj\Debug\net5.0\YchebniyPractice2(Cycle).genruntimeconfig.cache
